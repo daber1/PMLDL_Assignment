@@ -29,4 +29,4 @@ The decoder component takes the encoded representation and generates the desired
 
 
 ## Conclusion:
-In summary, my solution creation process started with a basic dictionary solution and progressed through research, architectural selection. By leveraging the seq2seq model architecture, inspired by research and guidance from ChatGPT, I created a basic but not good enough solution for the given problem.
+In summary, my solution creation process started with a basic dictionary solution and progressed through research, architectural selection. By leveraging the seq2seq model architecture, inspired by research and guidance from ChatGPT, I created a basic solution for the given problem.
